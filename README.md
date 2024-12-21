@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **C++ programming, Web development, Networking, and Open Source contributions**.
 - 🌱 I’m currently learning **Advanced C++, Algorithms, Web technologies.
-- - 💻 I am currently solving **Coding Ninjas DSA problems** to improve my problem-solving skills.
+- 💻 I am currently solving **Coding Ninjas DSA problems** to improve my problem-solving skills.
 - 💞️ I’m looking to collaborate on **C++ open-source projects**, **web development**, and **networking projects**.
 - 📫 How to reach me: You can reach me via email at [santoshdhamala.lp1190@gmail.com]
 - 😄 Pronouns: **He/Him**
