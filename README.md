@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Santoshhh-25
 
-- 👀 I’m interested in **C++ programming,Full Stack development, Networking, and Open Source contributions**.
+- 👀 I’m interested in **C++ programming, Full Stack development, Networking, and Open Source contributions**.
 - 🌱 I’m currently learning **Advanced C++, Algorithms, Web technologies.
 - 💻 I am currently solving **Coding Ninjas DSA problems** to improve my problem-solving skills.
 - 💞️ I’m looking to collaborate on **C++ open-source projects**, **web development**, and **networking projects**.
